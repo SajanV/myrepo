@@ -1,3 +1,3 @@
 public with sharing class Test {
-    system.debug('Test1');
+    system.debug('Test2');
 }
